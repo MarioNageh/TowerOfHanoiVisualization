@@ -13,6 +13,7 @@ Using Python and the Pygame library, I created a Tower of Hanoi game that displa
 One of the standout features of this project is the smooth animation and visual effects that make it easy to see exactly how the disks are being moved and arranged. You can also keep track of your moves and try to solve the puzzle in as few moves as possible, or simply enjoy the process of manipulating the disks and experimenting with different strategies.
 
 Overall, my Tower of Hanoi visualization project is a fun and engaging way to explore this classic puzzle and challenge your spatial reasoning and problem-solving skills. Whether you're a beginner or an experienced puzzler, you're sure to find something to enjoy in this interactive and visually appealing game.
+
 Installation
 ------------
     - pip install -r req.txt
